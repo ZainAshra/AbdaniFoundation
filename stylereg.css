@@ -1,0 +1,26 @@
+.a{
+    text-align: center;  
+    color: green;
+      text-decoration: underline;
+  }
+  .b{
+      border:solid 1px cornflowerblue;
+      align-items: center;
+      background-color: cornflowerblue;
+  }
+  .body{
+  color:whitesmoke;
+  }
+  .c{
+      text-align: center;
+      align-items: center;
+      background-color: cornflowerblue;
+  }
+
+button{
+    background-color: greenyellow;
+    color: greenyellow;
+    cursor: pointer;
+}
+      
+  
